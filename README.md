@@ -1,3 +1,5 @@
-# Seguranca-Digital
+# 🔐 Segurança Digital
 
-repositório criado para a disciplina de segurança digital do 6 semestre de ciencia da computação da universidade franciscana, guiado pelo professor Sylvio
+Repositório criado para a disciplina de **Segurança Digital** do **6º semestre** do curso de **Ciência da Computação** da **Universidade Franciscana (UFN)**.
+
+Orientado pelo professor **Sylvio**.
